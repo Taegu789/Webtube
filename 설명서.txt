@@ -1,0 +1,4 @@
+git 에 올리려면
+터미널에서 git remote add git주소 넣어주기.
+ex)git remote add origin username@bitbucket.org/myname/myproject.git
+## 브랜치 분기 하지말고 디폴트를 master로해버리기
